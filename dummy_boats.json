@@ -9,7 +9,7 @@
     "name": "Eka Jaya Matra",
     "type": "Fast Ferry",
     "port": "Pelabuhan Padangbai",
-    "capacity": 350
+    "capacity": 350,
     "image_url": "https://raw.githubusercontent.com/aditskyy/boat-data/main/boat1.jpg"
   },
   {
