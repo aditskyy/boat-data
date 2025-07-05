@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Speed Boat Nusantara",
+    "type": "Speed Boat",
+    "port": "Pelabuhan Benoa",
+    "capacity": 20
+  },
+  {
+    "name": "Eka Jaya Matra",
+    "type": "Fast Ferry",
+    "port": "Pelabuhan Padangbai",
+    "capacity": 350
+  },
+  {
+    "name": "Fast Cruiser 88",
+    "type": "Cruiser",
+    "port": "Pelabuhan Padangbai",
+    "capacity": 40
+  },
+  {
+    "name": "Ocean Jet",
+    "type": "Jet Boat",
+    "port": "Pelabuhan Serangan",
+    "capacity": 30
+  }
+]
