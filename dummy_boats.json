@@ -1,8 +1,8 @@
 [
   {
-    "name": "Speed Boat Nusantara",
+    "name": "Wahana Virendra",
     "type": "Speed Boat",
-    "port": "Pelabuhan Benoa",
+    "port": "Pelabuhan Batam",
     "capacity": 20
   },
   {
@@ -13,7 +13,7 @@
     "image_url": "https://raw.githubusercontent.com/aditskyy/boat-data/main/boat1.jpg"
   },
   {
-    "name": "Fast Cruiser 88",
+    "name": "Semaya Fast Cruiser ",
     "type": "Cruiser",
     "port": "Pelabuhan Padangbai",
     "capacity": 40
